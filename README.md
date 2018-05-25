@@ -1,2 +1,2 @@
-EGame is a PoS X11 cryptocurrency.
 
+Welcome to the EGame Fondation
